@@ -1,0 +1,33 @@
+# Build output
+/build/
+/dist/
+/out/
+/bin/
+/obj/
+
+# Installer binaries (use GitHub Releases instead of committing these)
+*.exe
+*.msi
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Environment / secrets
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Logs
+*.log
